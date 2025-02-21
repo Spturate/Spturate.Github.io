@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>如何进入服务器？</title>
+    <url>/howjoinserver/</url>
+    <content><![CDATA[<h1 id="如何进服？"><a href="#如何进服？" class="headerlink" title="如何进服？"></a>如何进服？</h1><p>本服才用公网IPv6+Radmin Lan+樱花映射的组合，三线任选</p>
+<h2 id="使用IPv6"><a href="#使用IPv6" class="headerlink" title="使用IPv6"></a>使用IPv6</h2><p><strong>如有IPv6网络首推！</strong>直接使用<strong>mc.spturate.eu.org</strong>即可进入服务器！</p>
+<h3 id="如何检查自家网络是否有IPv6？"><a href="#如何检查自家网络是否有IPv6？" class="headerlink" title="如何检查自家网络是否有IPv6？"></a>如何检查自家网络是否有IPv6？</h3><p>可以访问如下网站检测：<a href="http://ipv6-test.ch/">http://ipv6-test.ch/</a><br>一般情况下手机数据模式默认就有IPv6，宽带就得开运营商给不给，以及给了后光猫和路由器的设置是否正确了<br><img src="https://img.picui.cn/free/2025/02/21/67b87a2bb99ee.png"><img src="https://img.picui.cn/free/2025/02/21/67b87a9e60ef5.png">只要十项都过了问题就不大了，也可以去系统的网络适配器看看IPv6有没有Internet连接</p>
+<h2 id="使用Radmin-Lan工具"><a href="#使用Radmin-Lan工具" class="headerlink" title="使用Radmin Lan工具"></a>使用Radmin Lan工具</h2><p><strong>如无IPv6网络首推！</strong>进入<a href="https://www.radmin-lan.cn/">Radmin Lan</a>官网下载客户端<br>加入网络名称输入<strong>ZYH_server</strong>，密码：<strong>123asd,.&#x2F;</strong><br><img src="https://img.picui.cn/free/2025/02/21/67b87be739a6d.png"><br>加入后重启你的游戏客户端，使用IP：<strong>26.73.29.102</strong> 进入服务器</p>
+<h2 id="使用樱花映射"><a href="#使用樱花映射" class="headerlink" title="使用樱花映射"></a>使用樱花映射</h2><p><strong>适用于没有IPv6网络并且Radmin Lan连接也不稳定的情况</strong>，可直接使用IP：<strong>183.6.211.51:31835</strong>进入</p>
+<h1 id="注意！"><a href="#注意！" class="headerlink" title="注意！"></a>注意！</h1><p><strong>以上的延迟表现是基于本人这边的网络情况做出的判断，如连接卡顿可以换着来连接看看哪个稳定！</strong></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
